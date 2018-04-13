@@ -3,4 +3,5 @@
 bin/
 
 #.settings/
-data/
+data/output/
+!data/csv/
